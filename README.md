@@ -1,6 +1,11 @@
-# Web Starter
+# Typography Only for Nintendo DS
 
-> Computers are dumb. Humans make them smart.
+> A Web project to experiment with only CSS typography.
+
+## CSS Concepts 
+* Typography
+* Box Model 
+* CSS Variables 
 
 Starter (boilerplate) for all future projects.
 
