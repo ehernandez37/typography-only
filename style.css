@@ -19,7 +19,7 @@ https://www.figma.com/color-wheel/
 :root {
   --color1: lightpink;
   --color2: brown;
-  --color3: darkviolet;
+  --color3: #957DAD;
   --color4: lightyellow;
   --primaryfont : "Lora", serif;
 }
@@ -113,9 +113,21 @@ a:link {
   /*   transition: property duration delay; */
   }
 }
+
+blockquote{
+
+  border-left: solid 10px var(--color2);
+  padding-left: 20px;
+  margin: 20px;
+  flex: 1;
+
+
+}
 img{
 
  width: 300px;
  height: auto;
+ float: right;
+ margin-right: 20px;
 }
 
