@@ -113,3 +113,9 @@ a:link {
   /*   transition: property duration delay; */
   }
 }
+img{
+
+ width: 300px;
+ height: auto;
+}
+
