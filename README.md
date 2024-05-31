@@ -1,6 +1,6 @@
 # Typography Only for Nintendo DS
 
-> A Web project to experiment with only CSS typography.
+> A Web project to experiment with only CSS typography. oops
 
 ## CSS Concepts 
 * Typography
